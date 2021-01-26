@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Skeleton\Commands;
+namespace Apsg\Pdfable\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class PdfableCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'pdfable';
 
     public $description = 'My command';
 
